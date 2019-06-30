@@ -1,0 +1,30 @@
+
+div{
+  background: tomato;
+  font-size: 50px;
+  text-align: center;
+  width: 50%;
+  margin-left: 25%;
+  margin-top:25px;
+  font-family: lobster;
+}
+#one{
+  /* border: 2px solid black; */
+  background-color: gold;
+}
+#two{
+  background-color: lime;
+}
+body{
+  background: url("/home/aditya/Desktop/web development/html/blog/Bark.jpeg");
+}
+img{
+  width:30%;
+  float:left;
+  margin: 1.66%;
+}
+p{
+  font-family: lobster;
+  font-size: 40px;
+  color:lightskyblue;
+}

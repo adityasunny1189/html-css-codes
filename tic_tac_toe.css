@@ -1,0 +1,31 @@
+h1{
+  text-align: center;
+  color: red;
+  border:5px solid gold;
+  background: lime;
+  width:50%;
+  padding: 10px;
+  /* height: 200px; */
+  margin-left: 25%;
+}
+table{
+  font-size: 50px;
+  text-align: center;
+  margin:auto;
+}
+td{
+  width: 100px;
+  height: 100px;
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
+  padding: 20px;
+}
+.last{
+  border-right: white;
+}
+.bottom{
+  border-bottom: white;
+}
+#lst{
+  border-bottom: white;
+}
